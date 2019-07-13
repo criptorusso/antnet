@@ -1,2 +1,2 @@
 # antnet
-algoritmo de resolución de enlace por menor costo de ruta.
+algoritmo bioinspirado basado en colonia de hormigas, para resolución de ruta de menor costo.
